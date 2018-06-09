@@ -1,0 +1,114 @@
+{
+    "caffeine": {
+      "description": "Caffeine is a natural stimulant, stimulating the brain and central nervous system. This helps you stay alert and awake.",
+      "low": "Below 200 mg is a low value of caffeine. Having a low level does not affect a person physically or mentally, but if you are a regular drinker and do not slowly decrease your consumption, you may have withdrawal symptoms like anxiety, irritability, and drowsiness. Caffeine has no nutritional value.",
+      "normal": "Your caffeine level is a normal level. It is approximately a little more than 3 cups a day. Moderation of your caffeine level is recommended as your body can become use to the caffeine consumption and you might crave more.",
+      "high": "A high level of caffeine is 400 mg per day. A high consumption of caffeine may cause headaches, confusion, heartburn, increased blood pressure, and muscle aches.",
+      "low_number": 200,
+      "high_number": 400
+    },
+    "calcium": {
+      "description": "Calcium is mineral that is an essential nutrient for bone health. It helps make your bones and teeth strong.",
+      "low": "All ages below 9 mg/dl is considered low for calcium level. Too little calcium can cause spasms, twitching, and muscle cramps in your legs or arms. Sources of calcium to alleviate this is sunlight, supplements, and dairy food such as milk, green vegetables, cheese, etc.",
+      "normal": "A normal level of calcium in the body is roughly 9 mg/dl. With a normal level, calcium helps support your body structure through strengthening your muscles and bones ",
+      "high": "High level of calcium for ages 0-30 is above 10.7 mg/dl and for ages 30+ above it is above 9 mg/dl. Too much calcium can weaken your bones, create kidney stones (hard mass of calcium formed inside your kidney, it is like a rock being formed in your kidneys), and interfere with how your heart and brain function.",
+      "low_number": 9,
+      "high_number": 10.7
+    },
+    "carbohydrates": {
+      "description": "Carbohydrates are the main source of energy for people. It is the sugar, starch, and fiber in all types of food",
+      "low": "From a 2,5000 calories a day diet less than 281 grams is considered a low level of carbohydrates. Too little carbohydrates in the body can result in fatigue, headaches, dehydration, constipation, and diarrhea.",
+      "normal": "From a 2,5000 calories a day diet of 281 to 406 grams is considered a normal level of carbohydrates. A good level of carbohydrates provides you with energy for your digestive system and for the body physically.",
+      "high": "From a 2,500 calories a day diet more than 406 grams is considered a high level of carbohydrates. This causes excess sugar in the body, the carbohydrates can turn into fat, and prolonged consumption can lead to chronic illnesses and stroke.",
+      "low_number": 281,
+      "high_number": 406
+    },
+    "chloride": {
+      "description": "Chloride helps balance your acids and bases in your body, and assist in moving fluids around in your body",
+      "low": "A low level of chloride is below 97 mEq/L. Too little chloride in your body can cause excessive fatigue, breathing problems, frequent vomiting, prolonged diarrhea, excessive thirst, and high blood pressure.",
+      "normal": "A normal adult value for chloride is 97-107 mEq/L. With good amount of chloride your body has proper muscle, heart, and nerve function.",
+      "high": "A high level of chloride is above 107 mEq/L. Too much chloride in your blood can cause severe dehydration and bromine poisoning (poisoning that evaporates or destroys human tissue). High level of chloride can result from excessive sweating, excessive vomiting, and heart failure.",
+      "low_number": 97,
+      "high_number": 107
+    },
+    "chromium": {
+      "description": "A mineral that helps with insulin (regulating sugar in blood) and the regulation of carbohydrate, fat, and protein levels in the body.",
+      "low": "A low level of chloride in the body for males ages 19-50 years is less than 35 mcg/day. This can cause lower white blood cells (they assist with fighting infections), confusion, and muscle weakness.",
+      "normal": "A normal level of chloride in the body for males ages 19-50 years is 35 mcg/day. It greatly helps with typical body functions like digesting, moving the body’s sugars to cells that use it as energy, and turning carbohydrates, fats, and proteins into energy.",
+      "high": "A high level of chromium in the body for males ages 19-50 years is more than 35 mcg/day. Most high chromium level are seen in people working in the following industries: leather tanning, electroplating, and steel manufacturing. High chromium level can lead to digestive problems, nerve damage, and kidney (cleans blood and regulate body fluids) damage.",
+      "low_number": 35,
+      "high_number": 35
+    },
+    "copper": {
+      "description": "Copper helps maintain healthy bones, blood vessels, nerves, immune function, and contributes to iron absorption.",
+      "low": "Low concentration of copper in the blood is below 70 mcg/dL. Too little copper in the blood can lead to hair being less pigmented than normal (loss of color), anemia (not enough red blood cells causing fatigue, shortness of breath, and dizziness), and low level of white blood cells (helps in the process of fighting infections).",
+      "normal": "The normal range for copper in the blood is 70 to 140 mcg/dL. Copper helps with the formation of red blood cells, bones, and connective tissues (the fibers connecting joints together).",
+      "high": "High concentration of copper in the blood is above 140 mcg/dL. Too much copper in the blood is toxic. It can cause copper toxicity which is metal poisoning due to the excess of metal in the body.",
+      "low_number": 70,
+      "high_number": 140
+    },
+    "dietary_cholesterol": {
+      "description": "Dietary cholesterol is also known as High-Density Lipoproteins(HDL). HDL is used in the digestion process and in the creation of various hormones.",
+      "low": "Low measurements of is less than 25 mg/dL. With dietary cholesterol less than 25 mg/dL, the risk for heart disease doubles. Low amounts of dietary cholesterol indicate that you are at risk for obesity and cardiovascular disease",
+      "normal": "The normal levels of dietary cholesterol include are 25 mg/dL to 60 mg/dL. This indicates that you will maintain a fixed weight and is associated with proper heart function, kidney function, and blood circulation",
+      "high": "A high measurement of dietary cholesterol is about 60 mg/dL to 74 mg/dL. This is associated with a higher risk for coronary heart disease.",
+      "low_number": 25,
+      "high_number": 60
+    },
+    "dietary_energy": {
+      "description": "Dietary Energy is used to fuel the metabolic process by turning foods into nutrients. This is often measured with the total amount of calories a person needs a day.",
+      "low": ". The low value for dietary energy is 1,429 calories per day.This indicates that you will lose about 2lb. per week. Low levels of dietary energy are linked to the impairment of the immune system and nervous system. This can also result in constant fatigue and nausea. Low dietary energy is not limited to these outcomes.",
+      "normal": "The average dietary energy intake for you is about 2500 calories a day. This will result in a maintaining a healthy BMI and reduces the risk for obesity along with other complications.",
+      "high": " A high values for you is 3,429 calories in one day. This indicates that you will gain about 2lb per week. High dietary energy intake is associated, but not limited to, an increase in the risk for cardiovascular disease and kidney failure. High levels of dietary energy have also been linked to diabetes. ",
+      "low_number": 1429,
+      "high_number": 2500
+    },
+    "dietary_sugar": {
+      "description": "Dietary sugar is the amount of sugar an individual consumes to fuel their dietary energy",
+      "low": "A low amount of dietary sugar for you would be less than 25 grams per day. Low sugar diets are associated with a reduced risk for obesity, diabetes, heart disease, and chronic inflammation.",
+      "normal": "A diet that contains about 30 grams of sugar per day has been linked to weight control and reduced risk for cardiovascular disease.",
+      "high": "A high level of dietary sugar intake is 38 grams per day. High intakes of sugar can result in obesity, diabetes, and cardiovascular disease. Dietes with high dietary energy have also been linked to several cancers. ",
+      "low_number": 25,
+      "high_number": 38
+    },
+    "fiber": {
+      "description": "Fiber, also known as Vitamin B9, helps the body with DNA synthesis and repair and encourages cell and tissue growth",
+      "low": "Low measurements for fiber include less 3.3 ng/mL. Less than 3.3 ng/ml measurements of fiber are associated with constipation, diverticular disease, and hemorrhoids.",
+      "normal": "Normal amounts of fiber range from 3.4 to 5.3 ng/mL. Keeping an average level of fiber in your diet will result in maintaining healthy bowel and digestive movements.",
+      "high": "Over 5.4 ng/mL levels of fiber is associated with a reduced risk of heart disease, lower blood sugar levels, and lower cholesterol levels.",
+      "low_number": 3.4,
+      "high_number": 5.3
+    },
+     "zinc": {
+      "description": "Zinc is needed for the body’s immune system and plays a role in cell division, cell growth, wound healing, and the breakdown of carbohydrates.",
+      "low": "Low amounts of zinc indicates zinc deficiency. This indicates risk for weak immunity, hair loss, lethargy, and loss of appetite.",
+      "normal": "A normal range of zinc in the body is 70 - 125 µg/dL. With a good amount of Zinc, your body has the ability to prevent lower respiratory infects, boost the immune system and improve wound healing.",
+      "high": "High levels of zinc indicate risk for nausea, vomiting, loss of appetite, and headaches.",
+       "low_number": 70,
+    " high_number": 125
+    },
+    "vitamin_a": {
+      "description": "Vitamin A is a fat soluble vitamin that is naturally present in many foods. It helps maintain normal vision, the immune system, and reproduction.",
+      "low": " A low level of vitamin A in the body is below 15 mcg. Low levels of vitamin A can cause impaired immunity or impaired eyesight. ",
+      "normal": "A normal level of Vitamin A in the body is 15 to 60 micrograms per deciliter (mcg/dL). With a good amount of Vitamin A, your body has the ability to maintain heart, kidney and lung function.",
+      "high": "A high level of Vitamin A in the body is considered above 60 mcg. High levels of Vitamin A can lead to dizziness, nausea, or headaches. ",
+      "low_number": 15,
+      "high_number": 60
+    },
+    "vitamin_b": {
+      "description": "Vitamin B is a nutrient that helps keep the body’s nerve and blood cells healthy. ",
+      "low": "A low level of vitamin B in the body is below 190 ng/mL. Low levels of vitamin B can lead to anemia, weakness, or tiredness.",
+      "normal": "A normal level of vitamin B in the body is between 190 and 900 ng/mL. With a good amount of vitamin B, your body has the ability to maintain healthy blood cells, energy throughout the day, ",
+      "high": "A high level of Vitamin B in the body ia above 900 ng/mL. High levels of Vitamin B can lead to oversensitivity to sunlight, skin rashes, nausea, or abnormal liver function.",
+      "low_number": 190,
+      "high_number": 900
+    },
+    "vitamin_c": {
+      "description": "Vitamin C is a water soluble vitamin and powerful antioxidant. It helps maintain protection against immune system deficiencies, cardiovascular disease, eye disease and skin wrinkling. ",
+      "low": "A low level of Vitamin C in the body is less than 0.3 mg/dL. Low levels of Vitamin C can lead to fatigue, muscle weakness, low immunity.",
+      "normal": "A normal level of vitamin C in the body is between 0.3 mg/dL- 0.6 mg/dL. With a good amount of vitamin C, your body has the ability to protect against heart disease, decrease total and LDL cholestorl, protect against a variety of cancers, and support healthy immune function.",
+      "high": "A high level of Vitamin C in the body is above 0.6 mg/dL. High levels of Vitamin C are usually unlikely to be harmful. Although, it could potentially lead to diarrhea or nausea.",
+      "low_number": 0.3,
+      "high_number": 0.6
+    }
+  }

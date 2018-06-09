@@ -2,9 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Home</title>
 </head>
 <body>
-
+    {% for line in db_file %}
+        {{line}}<br />
+        {% for entry in db_file[line] %}
+            {{entry}}:
+            {{db_file[line][entry]}}<br />
+        {% endfor %}
+    <br />
+    {% endfor %}}
 </body>
 </html>
