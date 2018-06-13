@@ -17,5 +17,10 @@ def read_database():
     f.close()
     return dbList
 
+@app.route('/user_view', methods=['GET','POST'])
+def show_user():
+    personaFile=[]
+    return render_template("user_view.html", persona_file=personaFile)
+
 if __name__ == '__main__':
     app.run()

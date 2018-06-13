@@ -1,17 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Home</title>
-</head>
-<body>
-    {% for line in db_file %}
-        {{line}}<br />
-        {% for entry in db_file[line] %}
-            {{entry}}:
-            {{db_file[line][entry]}}<br />
-        {% endfor %}
-    <br />
-    {% endfor %}}
-</body>
-</html>
+{% extends "layout.html" %}
+
+{% block body %}
+<div class="row">
+        <div class="col-sm-8">
+            {% for line in db_file %}
+                {{line}}<br />
+                {% for entry in db_file[line] %}
+                    {{entry}}:
+                    {{db_file[line][entry]}}<br />
+                {% endfor %}
+            <br />
+            {% endfor %}
+        </div>
+        <div class="col-sm-4">
+            <a href="/user_view">go to user view</a>
+        </div>
+</div>
+{% endblock %}
