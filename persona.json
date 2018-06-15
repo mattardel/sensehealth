@@ -1,412 +1,102 @@
-﻿Patient demographics:
-1. Name: Roger Cook
-2. Weight: 250 lbs
-3. Height: 5’9”
-4. Sex: Male
-5. Birth: 12/11/1976 (42 years old)
-6. Address: 3194 Pine Dr
-7. Communication: (123)456-7890
-8. Language
-   1. Spoken: English
-   2. Written: English
-1. Race: 
-
-
-Allergies (to medications, etc.)
-* penicillin
-
-
-Current Medication(prescribed)
-1. Ended Medications
-
-
-Current Health Conditions
-1. Injuries
-2. Categorical Diseases/Disorders
-   1. Obesity
-
-
-Vaccinations
-1. HPV 1/5/1987, 7/24/1987
-2. Tetanus 2/20/1976; 7/24/1987; 8/16/1997; 9/13/2017
-3. MMR 12/24/1977; 3/13/1981
-4. Hep A 1/17/1978; 7/24/1978
-5. Hep B 12/11/1976; 1/4/1977; 3/16/1977
-6. Influenza 10/24/1977; annually at the beginning of flu season
-7. Varicella 12/24/1977; 5/28/1981
-
-
-Results(Where most of the app has data)
-1. Ferritin : [a]
-* Ferritin levels indirectly measures the total amount of iron stored in your body. It acts as a buffer against iron deficiency and iron overload.
-* PT: 132 ng/mL
-  
-
-* Normal value shows that you have a sufficient amount of iron in your blood to assist in carrying oxygen throughout your body.
-* Low value shows a risk for lack of iron, which could lead to anemia, a decrease in the amount of red blood cells or hemoglobin in the blood, reducing the ability of blood to carry oxygen. It can lead to shortness of breath, tired feeling, and weakness. 
-* High value shows excess iron levels, or is a sign of infection. High ferritin levels can signal iron overload disorders, such as hemochromatosis which is an inherited disease.
-* https://en.wikipedia.org/wiki/Ferritin#Deficiency
-1. Iron
-* Iron is a mineral that your body needs for many functions. It helps your muscle store and use oxygen and it is also a component of hemoglobin, a protein that distributes oxygen from your lungs throughout your body.
-* PT: See #1 Ferritin and #4 CBC for results
-   1. Hematocrit: Men, 38.8-50%, Women, 34.9-44.5% 
-   2. Hemoglobin: Men, 13.5-17.5 g/dL, Women, 12-15.5 g/dL
-   3. Ferritin: low levels for iron deficiency
-   4. From Mayo Clinic
-* Normal value shows that you have a sufficient amount of iron in your blood to assist in carrying oxygen throughout your body.
-* Low value shows low iron levels, and could lead to iron deficiency, also known as anemia. Low levels could be due to blood loss or a lack of ability to absorb iron from your diet. 
-* High value shows an overload of iron in your body. This could be due to taking too many iron supplements which could lead to iron poisoning, or hemochromatosis which is an inherited disease.
-* https://medlineplus.gov/iron.html
-1. Glucose
-* Glucose is a type of sugar that your body uses for energy, and is the main source of fuel for your brain. 
-* PT: Random Test 120mg/dL
-   1. For a fasting blood glucose test, a level between 70 and 100 mg/dL (3.9 and 5.6 mmol/L) is considered normal.  100-125 mg/dL is prediabetic. 126+ mg/dL is diabetic.
-   2. For a random test, Most of the time, the blood glucose level will be below 125 mg/dL (6.9 mmol/L). Above 200mg/dL usually means you have diabetes        
-   3. From MedlinePlus
-* Normal value shows that the level of glucose in your blood is constant. Your pancreas is working normally to make insulin, which brings the glucose in your blood steam into your cells.
-* Low value : without enough glucose, your body cannot perform its normal functions. Low blood glucose is also known as hypoglycemia. This could be a side effect of diabetes treatment and could lead to pale skin, blurry vision, and dizziness, to name a few.
-* High value: This is also known as hyperglycemia. High blood glucose could damage the vessels that carry blood into your organs. It can also increase your risk for heart disease, kidney disease, and nerve damage.
-* https://www.webmd.com/diabetes/glucose-diabetes#1
-1. CBC (complete blood count)
-* PT: listed below
-        RBC: 5 trillion/L, 
-   * Red blood cells contain hemoglobin, which is in charge of carrying oxygen to your body’s tissues. The number of red blood cells you have affect how much oxygen your tissues receive, and your tissues need oxygen to function
-   * Normal value  shows that you have a normal amount of red blood cells and that your tissues are receiving an adequate amount of oxygen they need to function.
-   * Low value (4.32 mcL) can be due to anemia or certain drugs. Any recent dietary changes could also change your red blood cell count. A low red blood cell count could indicate that your tissues are not receiving enough oxygen.
-   * High value (5.72 mcL) indicates you have erythrocytosis and may be due to a decrease in oxygen supply. This condition can make your blood thicker and lead to blood clots or other complications.
-Hemoglobin: 15.2 g/dL, 
--Hemoglobin is a protein in red blood cells that carries and facilities the process of moving oxygen from the lungs to the rest of the body. It also aids the process of metabolism throughout the body. Hemoglobin helps maintain the shape of red blood cells as well. 
--Normal value shows that you have a normal amount hemoblogin. The amount of hemoglobin in the blood affects the movement of oxygen throughout the body and maintains healthy red blood cells. 
--Low value: (Below 13.5 g/dL) indicates that you have anemia. There are many forms of anemia and each have different causes and symptoms. 
--High value (Above 17.5 g/dL) idnicates that you have an above-normal level of hemoglobin in your blood. High levels of hemoglobin are associated with smoking and living in high altitudes. 
-Hematocrit: 42%,
--  Hematocrit is the ratio of red blood cells to total volume of blood in a person. Red blood cells are used to carry oxygen throughout the body. 
-- Low Value: Less than 42%. Low levels of hematocrit are often referred to anemia. This is associated with hemophilia, ulcers, sickle cell disease, and internal bleeding. 
--Normal Value: Normal levels of hematocrit is between 42% and 54%. These levels of hematocrit are associated with proper respiration, good heart function, and balanced energy levels.
--High Value: High levels of hematocrit are above 54%. Such high levels are associated with dehydration, kidney disease, and heart disease.    
-WBC: 7 billion/L, 
-Platelet:  322 billion/L
-  
- 
-   1. From Mayo Clinic
-   1. WBC        
-   1. Description: White blood cells are infection-fighting cells in the blood.
-   2. High: More than 11,000 cells per cubic millimeter of blood is a high concentration level of white blood cells in your body. This condition is called Leukocytosis and their is an inflammatory response (reddened, swollen, hot, and painful reaction) in your body.
-   3. Normal: 4,300-10,800 cells per cubic millimeter of blood. Your body has a good amount of white blood cells to fight off foreign agents in your body.
-   4. Low: A low concentration of white blood cells in your body is less than 1,500 microliter. This condition is called Neutropenia and your body’s natural ability to fight off infection is decreased. 
-   5. https://www.medicinenet.com/script/main/art.asp?articlekey=9983 
-   1. Platelet
-   1. Description: Platelets are blood cells that help clot blood to stop bleeding.
-   2. High: More than 450,000 per microliter of blood. With a high concentration of platelets this can lead a person to have reactions to medicine and it can cause inflammation within the body.
-   3. Normal: 150,000-450,000 per microliter of blood. With this level of platelets in your system, your body can clot blood regularly.
-   4. Low: Less than 150,000 per microliter of blood. With a low amount of platelets in your system, getting a cut is dangerous as your blood will not clot very fast. Bleeding from small wounds can be serious.
-   5. https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=160&ContentID=36 
-   1. Thyroid Stimulating Hormone
-   * The thyroid stimulating hormone is produced in your brain and signals your thyroid to release thyroid hormones into your blood that regulates the way your body uses energy. It plays a crucial role in regulating body temperature, muscle strength, and mood. 
-   * PT: 1.0 MIU/L
-   1. The normal TSH range is 0.4 to 5 milli-international units per liter (mIU/L)
-   2. From WebMD
-   * Normal value shows that your thyroid is making enough thyroid hormones and that your thyroid is working correctly.
-   * Low value indicates hyperthyroidism and that your thyroid is making too much of the thyroid hormone. This can be caused by Graves disease or too much iodine in your system, to name a few.
-   * High value indicates hypothyroidism and that your thyroid is not making enough of the thyroid hormone. This can be caused by pregnancy, steroids, dopamine, or opioid painkillers.
-   * https://www.webmd.com/women/what-is-tsh-test#1
-   1. Lipid Panel[b]
-   1. Cholesterol
-   
-   * PT: total (176 mg/dl); HDL (47 mg/dl); LDL (160 mg/dl); Triglycerides (167 mg/dl)
-   * High Value increases your risk of developing heart disease. Uncontrollable factors that could cause it are being female and hitting menopause, growing older, or having a family history of it. Controllable factors include reducing the sugars and fat in your diet, not being overweight, and increasing physical activity.
-   * Low Value is generally better than high cholesterol, but may be linked to health issues if too low. Extremely low values below 40mg/dL may increase risk of cancer, hemorrhagic stroke, depression, and anxiety.
-   * Normal Value of cholesterol shows your liver is producing the right amount needed for your body to work properly. 
-   1. Creatinine 
-   * PT: 1.0 mg/dl        
-   1. Creatinine Blood Test: A normal result is 0.7 to 1.3 mg/dL (61.9 to 114.9 µmol/L) for men and 0.6 to 1.1 mg/dL (53 to 97.2 µmol/L) for women.
-   2. From MedlinePlus
-   3. High Value of creatinine can signify impaired kidney function or kidney disease. Kidneys filter creatinine from the blood. Some causes may be high blood pressure, diabetes, and drugs. 
-   4. Low Value can signify impaired kidney function or excess water loss. Creatinine production is linked to muscle mass, low values may also be linked to muscular diseases, such as muscular dystrophy. Drugs, pregnancy, and muscular diseases may be causes. 
-   5. Normal Value of creatinine shows proper kidney function. 
-   1. Fasting Glucose 
-   * PT: 97mg/dL
-   1. Normal: 3.9 to 5.4 mmols/l (70 to 99 mg/dl)
-   2. Prediabetes or Impaired Glucose Tolerance: 5.5 to 6.9 mmol/l (100 to 125 mg/dl)
-   3. Diagnosis of diabetes: 7.0 mmol/l (126 mg/dl) or above 
-   4. High Value of fasting glucose can mean you either have impaired fasting glucose, or you have diabetes. Other causes could include hyperactive thyroid, pancreatic problems (cancer, inflammation, etc), or stress from cardiovascular problems. 
-   5. Low Value of fasting glucose is called hypoglycemia. It is common in people with Type 1 diabetes and symptoms may show as shaking, sweating, dizzy, disoriented, feeling week, trouble concentrating, and in extreme cases, unconsciousness and seizures. Eating or drinking carbohydrates, or taking glucose pills can bring this value up to the normal range. Causes of low fasting glucose could be hypopituitarism, underactive thyroid, tumor in the pancreas, liver disease, or kidney disease.
-   6. Normal Value shows you are taking eating well in providing glucose for your cells to use as energy. Fasting glucose is also used to screen for diabetes, and a normal range is a good indicator that you do not have diabetes. 
-   1. Biotin
-   * PT: 37 mcg/day
-  
-  From WebMD
-   1. Adults: 30-100mcg/day         From MayoClinic
-   2. High Value of biotin does not currently have significant health risks, but may falsely influence lab results which could lead to improper treatment of other health problems.
-   3. Low Value is rare and often come with symptoms of hair thinning, hair loss, brittle nails, skin infection and rashes, and seizures. Taking biotin pills can help elevate levels to normal. 
-   4. Normal Value of biotin shows your dietary intake of foods is good and providing the necessary amount of B vitamin for your body’s metabolism. 
-   1. Nutrition[c] 
-   1. Caffeine (for adults)
-   * PT: 340 mg/day
-   * Description of area in general
-   * Caffeine is a natural stimulant, stimulating the brain and central nervous system. This helps you stay alert and awake.
-   * Person’s level description
-   * Your caffeine level is a normal level. It is approximately a little more than 3 cups a day. Moderation of your caffeine level is recommended as your body can become use to the caffeine consumption and you might crave more.
-   * High value
-   * A high level of caffeine is 400 mg per day. A high consumption of caffeine may cause headaches, confusion, heartburn, increased blood pressure, and muscle aches.
-   * low value
-   * Below 200 mg is a low value of caffeine. Having a low level does not affect a person physically or mentally, but if you are a regular drinker and do not slowly decrease your consumption, you may have withdrawal symptoms like anxiety, irritability, and drowsiness. Caffeine has no nutritional value.
-   * normal value 
-   * A normal level of caffeine is 400 mg per day, but a good average level is 200 mg. The good level is a bit lower than the normal level because over time consumption of caffeine should remain consistent or it can drop. 
-   1. Normal Level: 400 mg per day (“100 mg of caffeine may induce sleep latency… particularly close to bedtime”)
-   1. It’s like 4 cups of coffee
-   2. https://www.coffeeandhealth.org/topic-overview/guidelines-on-caffeine-intake/ 
-   1. Good level is 200 mg
-  
-
-   1. Calcium
-   * PT: 9.3 mg/dl
-   * Description of area in general
-   * Calcium is mineral that is an essential nutrient for bone health.  It helps make your bones and teeth strong.
-   * Person’s description
-   * Your level of calcium is a little bit higher than the normal level. Cutting back on outdoor activities or high calcium food can balance your calcium level back to the normal value.
-   * High Value
-   * High level of calcium for ages 0-30 is above 10.7 mg/dl and for ages 30+ above it is above 9 mg/dl. Too much calcium can weaken your bones, create kidney stones (hard mass of calcium formed inside your kidney, it is like a rock being formed in your kidneys), and interfere with how your heart and brain function.
-   * Low Value
-   * All ages below 9 mg/dl is considered low for calcium level. Too little calcium can cause spasms, twitching, and muscle cramps in your legs or arms. Sources of calcium to alleviate this is sunlight, supplements, and dairy food such as milk, green vegetables, cheese, etc.
-   * Normal Value
-   * A normal level of calcium in the body is roughly 9 mg/dl. With a normal level, calcium helps support your body structure through strengthening your muscles and bones 
-   1. By age 35, level should be below 10.2 mg/dl
-   2. Ages 35+ level should be 9 almost all the time
-https://www.parathyroid.com/Normal-Blood-Calcium-Levels.htm
-
-
-   1. Carbohydrates- Function: Provide body with energy 
-   * PT: 415 g/day
-   * Description of area in general
-   * Carbohydrates are the main source of energy for people. It is the sugar, starch, and fiber in all types of food
-   * Person’s Description
-   * Based off from a 2,500 calories daily intake, 425 g/day is a little bit more than the recommended grams. Since carbohydrates are found in all types of food, it is recommended in order to reduce carbohydrate intake is to slowly cut back on food portions or exercise to burn it off.
-   * High Value
-   * From a 2,5000 calories a day diet more than 406 grams is considered a high level of carbohydrates. This causes excess sugar in the body, the carbohydrates can turn into fat, and prolonged consumption can lead to chronic illnesses and stroke.
-   * Low Value
-   * From a 2,5000 calories a day diet less than 281 grams is considered a low level of carbohydrates. Too little carbohydrates in the body can result in fatigue, headaches, dehydration, constipation, and diarrhea.
-   * Normal Value
-   * From a 2,5000 calories a day diet of 281 to 406 grams is considered a normal level of carbohydrates. A good level of carbohydrates provides you with energy for your digestive system and for the body physically.
-   1. 2,000-calorie diet, 225 to 325 grams of carbs per day
-   2. 2,500 calories a day, 281 to 406 grams of carbs per day
-   3. http://healthyeating.sfgate.com/recommended-amount-percent-carbohydrates-per-day-7287.html 
-   1. Chloride- Function: Needed to maintain the body's acid-base balance.
-   * PT: 102 mEq/L
-   * Description of area in general
-   * Chloride helps balance your acids and bases in your body, and assist in moving fluids around in your body.
-   * Person’s Description
-   * Your chloride level is in the normal range. With your body’s pH system (acids and bases) in balance your body is not deprive of chemicals that assist in the muscle, heart and nerve functions.
-   * High Value
-   * A high level of chloride is above 107 mEq/L. Too much chloride in your blood can cause severe dehydration and bromine poisoning (poisoning that evaporates or destroys human tissue). High level of chloride can result from excessive sweating, excessive vomiting, and heart failure.
-   * Low Value
-   * A low level of chloride is below 97 mEq/L. Too little chloride in your body can cause excessive fatigue, breathing problems, frequent vomiting, prolonged diarrhea, excessive thirst, and high blood pressure.
-   * Normal Value
-   * A normal adult value for chloride is 97-107 mEq/L. With good amount of chloride your body has proper muscle, heart, and nerve function.
-   1. normal adult value for chloride is 97-107 mEq/L.
-   2. https://www.healthline.com/health/chloride-test-blood 
-
-
-
-
-
-
-
-
-   1. Chromium- ***Disclaimer: Humans require very small amounts of it   
-Function: Helps with metabolism of fats and carbohydrates
-      * PT: 30mcg/day 
-      * Description of area in general
-      * A mineral that helps with insulin (regulating sugar in blood) and the regulation of carbohydrate, fat, and protein levels in the body.
-      * Person’s Description
-      * Your level of chromium is lower than normal. Dietary sources of chromium are: whole grain, potato skins, cheese, and meat. Chromium deficiency are commonly found in the elderly and diabetic.
-      * High Value
-      * A high level of chromium in the body for males ages 19-50 years is more than 35 mcg/day. Most high chromium level are seen in people working in the following industries: leather tanning, electroplating, and steel manufacturing. High chromium level can lead to digestive problems, nerve damage, and kidney (cleans blood and regulate body fluids) damage.
-      * Low Value
-      * A low level of chloride in the body for males ages 19-50 years is less than 35 mcg/day. This can cause lower white blood cells (they assist with fighting infections), confusion, and muscle weakness.
-      * Normal Value
-      * A normal level of chloride in the body for males ages 19-50 years is 35 mcg/day. It greatly helps with typical body functions like digesting, moving the body’s sugars to cells that use it as energy, and turning carbohydrates, fats, and proteins into energy.
-      * https://medlineplus.gov/ency/article/003359.htm 
-      * https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/ 
-      * https://www.healthlabs.com/chromium-blood-testing 
-
-
-      1. Copper
-Function: Helps maintain healthy bones, blood vessels, nerves, immune function, and contributes to iron absorption 
-      * PT: 127 mcg/dL
-      * Description of area in general
-      * Copper helps maintain healthy bones, blood vessels, nerves, immune function, and contributes to iron absorption. 
-      * Person’s Description
-      * Your copper level is on the normal range. Major copper sources comes from consuming foods such as cashews, beef liver, cocoa, and mushrooms. 
-      * High Value
-      * High concentration of copper in the blood is above 140 mcg/dL. Too much copper in the blood is toxic. It can cause copper toxicity which is metal poisoning due to the excess of metal in the body.
-      * Low Value
-      * Low concentration of copper in the blood is below 70 mcg/dL. Too little copper in the blood can lead to hair being less pigmented than normal (loss of color), anemia (not enough red blood cells causing fatigue, shortness of breath, and dizziness), and low level of white blood cells (helps in the process of fighting infections).
-      * Normal Value
-      * The normal range for copper in the blood is 70 to 140 mcg/dL. Copper helps with the formation of red blood cells, bones, and connective tissues (the fibers connecting joints together).
-      1. normal range for total copper in the blood is 70 to 140 micrograms per deciliter (mcg/dL).
-      2. https://www.healthlabs.com/copper-blood-testing 
-      3. https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=total_copper_blood 
-
-
-      1. Dietary Cholesterol(High-Density Lipoproteins) [d]
-      * PT: 32 mg/dL
-      1. The average measurements for HDL in males is 45 mg/dL
-      2. Risk for coronary heart disease is below average between 60 mg/dL and 74 mg/dL  
-      3. HDL Low Value: 25 mg/dL The risk for heart disease is doubled.
-      4. https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=167&ContentID=lipid_panel_hdl_ratio
-      1. Dietary Energy
-      * PT: 2,800 Calories 
-      1. High Value: 3,429 Calories 
-      2. This indicates that the patients will gain about 2 lb per week. This will increase the risk for cardiovascular disease and kidney failure.
-      3. Low Value: 1,429 Calories 
-      4. This indicates that the patient will lose about 2lb  per week. This will result in impairment of the immune system and nervous system. This can also result in constant fatigue and nausea. 
-      5. Dietary Energy is used to fuel the metabolic process by turning foods into nutrients
-      6. .https://www.cnpp.usda.gov/sites/default/files/usda_food_patterns/EstimatedCalorieNeedsPerDayTable.pdf
-      7. http://www.calculator.net/calorie-calculator.html?ctype=standard&cage=42&csex=m&cheightfeet=5&cheightinch=9&cpound=250&cheightmeter=180&ckg=60&cactivity=1.2&printit=0&x=115&y=34
-      8. https://www.nhlbi.nih.gov/health/educational/wecan/healthy-weight-basics/maintain.htm
-
-
-      1. Dietary Sugar
-      * PT: 86.7 grams 
-      1. High Value: 38 grams
-      2. This indicates that the individual is at risk for obesity and cardiovascular disease
-      3. Low Value: 
-      4. Dietary sugar is the amount of sugar an individual consumes to fuel their dietary energy High intakes of sugar can result in obesity and cardiovascular disease. 
-      5. http://sugarscience.ucsf.edu/the-growing-concern-of-overconsumption.html
-      1. Fiber
-      * PT: 25 grams 
-      1. Total dietary fiber intake should be 25 to 30 grams a day from food, not supplements.
-      2. https://www.ucsfhealth.org/education/increasing_fiber_intake/ 
-      1. Folate: Function: Also known as Vitamin B9, Helps body with DNA synthesis and repair. Also encourages cell and tissue growth 
--PT: 12 ng/ mol
-General ranges
-0 - 3.3 ng/mL: Deficient
-3.4 - 5.3 ng/mL: Indeterminate
-5.4 - 40.0 ng/mL: Normal
-      * Adults: 2-20 ng/mL, or 4.5-45.3 nmol/L
-      * Children: 5-21 ng/mL, or 11.3-47.6 nmol/L
-
-
-      1. Lead- Function: 
--PT: 1.7 µg/dL
-      * Children: level as los as 20 µg/dL or 0.97 µmol/L- greater than 45 µg/dL or 2.17 µmol/L may indicate need for treatment 
-      * Adults: Less than 10 micrograms per deciliter (µg/dL) or 0.48 micromoles per liter (µmol/L) of lead in the blood
-      1. Zinc 
-      * PT: 78 µg/dL
-      1. The normal range of serum Zinc level according to this instrument was 70 - 125 µg/dL
-      2. http://jhealthscope.com/en/articles/20086.html 
-      1. -PT:
-Vitamin A: 15 to 60 micrograms per deciliter (mcg/dL) or 0.52 to 2.09 micromoles per liter (micromol/L)
-      1. Vitamin B: -PT: 720 ng/mL
-190 and 900 nanograms per milliliter (ng/mL).
-Indication of low level range=below 190 ng/mL
-Indication of high level range= above 900 ng/mL
-      1. Vitamin C- -PT: 91. 5 mg 
-Less than less than 0.3 mg/dL= indicates deficiency 
-Men and Women Ranges by age 
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	Age
-	Male
-	Female
-	
-
-	
-
-	
-
-	
-
-	
-
-	 
-	 
-	
-
-	
-
-	
-
-	 
-	 
-	1–3 years
-	15 mg
-	15 mg
-	 
-	 
-	4–8 years
-	25 mg
-	25 mg
-	 
-	 
-	9–13 years
-	45 mg
-	45 mg
-	 
-	 
-	14–18 years
-	75 mg
-	65 mg
-	
-
-	
-
-	19+ years
-	90 mg
-	75 mg
-
-
-	
-
-	
-
-	
-
- 
-Document Information
-      1. Primary Care Provider
-      2. Primary care location and physician
-      3. Coverage of document***
-      4. Custodian Organization(where the info is coming from)*** 
-
-
-
-
-
-
-
-
-Description of what the topic/area is? 
-        Ex: Answering the question that does Vitamin C do? The benefits?
-
-
-Description of the person’s level/number
-        Ex: Your level is a little high. Studies show that people with this display _____,______
-
-
-High value, low value, normal value (descriptions for all of them)
-        
-Explain how that high or low value mean relative to the values
-        Having a high value leads to ………
-        Result of being normal and how that affects you
-
-
-
-
-
-
-[a]Melissa: 1-3, 5
-[b]Jen: 6-9
-[c]Judy: Nutrition a-f
-[d]Tony: g-k
+{
+  "patientdemographics": {
+    "name": "Roger Cook",
+    "weight": 250,
+    "height": "5ft 9",
+    "sex": "male",
+    "birth": "12/11/1976",
+    "age": 42,
+    "address": "3194 Pine Dr.",
+    "communication": "(123)456-7890",
+    "language": {
+      "spoken": "English",
+      "written": "English"
+    },
+    "race": "white"
+  },
+  "allergies": [
+    "penicillin"
+  ],
+  "current_medications": [
+    "NA"
+  ],
+  "current_health_conditions": {
+    "injuries": "none",
+    "categorical_diseases_disorders": "obesity"
+  },
+  "vaccinations": {
+    "hpv": [
+      "1/5/1987",
+      "7/24/1987"
+    ],
+    "tetanus": [
+      "2/20/1976",
+      "7/24/1987",
+      "8/16/1997",
+      "9/13/2017"
+    ],
+    "mmr": [
+      "12/24/1977",
+      "3/13/1981"
+    ],
+    "hep_a": [
+      "1/17/1978",
+      "7/24/1978"
+    ],
+    "hep_b": [
+      "12/11/1976",
+      "1/4/1977",
+      "3/16/1977"
+    ],
+    "influenza": [
+      "10/24/1977"
+    ],
+    "varicella": [
+      "12/24/1977",
+      "5/28/1981"
+    ]
+  },
+  "results": {
+    "ferritin": "132 ng/mL",
+    "iron": "100",
+    "glucose": "120 mg/dL",
+    "rbc": "5 trillion/L",
+    "hemoglobin": "15.2 g/dL",
+    "hematocrit": "42%",
+    "wbc": "7 billion/L",
+    "platelet": "322 billion/L",
+    "thyroid_stimulating_hormone": "1.0 MIU/L",
+    "lipid_panel": {
+      "total": "176 mg/dl",
+      "hdl": "47 mg/dl",
+      "ldl": "160 mg/dl",
+      "triglycerides": "167 mg/dl"
+    },
+    "creatinine": "1.0 mg/dl",
+    "fasting_glucose": "97 mg/dl",
+    "biotin": "37 mcg/day",
+    "caffeine": "340 mg/day",
+    "calcium": "9.3 mg/dl",
+    "carbohydrates": "415 g/day",
+    "chloride": "102 mEq/l",
+    "chromium": "30 mcg/day",
+    "copper": "127 mcg/dL",
+    "dietary_cholesterol": "32 mg/dL",
+    "dietary_energy": "2287 calories",
+    "dietary_sugar": "86.7 grams",
+    "fiber": "25 grams",
+    "folate": "12 ng/mol",
+    "insulin": "?",
+    "lead": "1.7µg/dL",
+    "zinc": "78 µg/dL",
+    "vitamin_a": "?",
+    "vitamin_b": "720 ng/mL",
+    "vitamin_c": "91.5 mg"
+  },
+  "document_information": {
+    "primary_care_provider": {},
+    "primary_care_location": {},
+    "coverage_of_document": {},
+    "custodian_organization": {}
+  }
+}

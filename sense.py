@@ -5,17 +5,40 @@ app = Flask(__name__)
 
 
 @app.route('/', methods=['GET','POST'])
-def hello_world():
+def view_db():
     dbFile = read_database()
-    return render_template("index.html", db_file=dbFile)
+    pFile = read_persona()
+    results = get_results(pFile)
+    return render_template("index.html", db_file=dbFile, res=results)
 
 
 def read_database():
-    dbList = []
+    dbList = dict
     with app.open_resource("db.json", mode="r") as f:
         dbList = json.load(f)
     f.close()
     return dbList
+
+def get_metric(db: dict, metric: str):
+    try:
+        print(db[metric])
+    except:
+        return metric+" not found."
+
+def read_persona():
+    pList = dict
+    with app.open_resource("persona.json", mode="r") as f:
+        pList = json.load(f)
+    f.close()
+    return pList
+
+def get_results(db: dict):
+    res = dict
+    try:
+        res = db["results"]
+        return res
+    except:
+        return "Unable to find user results"
 
 @app.route('/user_view', methods=['GET','POST'])
 def show_user():

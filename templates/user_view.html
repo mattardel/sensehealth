@@ -1,33 +1,51 @@
 {% extends "layout.html" %}
 
 {% block body %}
-<div class="container">
+<div id="sideNav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Clients</a>
+    <a href="#">Contact</a>
+</div>
+
+<div id="main" class="container">
     <div class="page-header">
         <h1>Sense Health Data Analysis</h1>
+        <span onclick="openNav()"><button type="button" class="btn btn-default">Health Reports</button></span>
     </div>
     <div class="row">
-        <div class="col-lg-4 well"><h1>Health Factors</h1></div>
+        <div class="col-lg-4"><h3>Health Factors</h3></div>
         <div class="col-lg-4"></div>
         <div class="col-lg-4"><h1>test</h1></div>
     </div>
 
     <div class="row">
-        <div class="col-lg-2 btn-group-vertical">
-            <a href="#" class="btn btn-primary">Apple</a>
-            <a href="#" class="btn btn-primary">Samsung</a>
-            <a href="#" class="btn btn-primary">Sony</a>
-        </div>
+        <div class="col-lg-2">test</div>
         <div class="col-lg-5 well">test</div>
         <div class="col-lg-5 well">test</div>
     </div>
 
     <div class="row">
-        <div class="col-lg-2"></div>
+        <div class="col-lg-2">test</div>
         <div class="col-lg-5 well">test</div>
         <div class="col-lg-5 well">test</div>
     </div>
 
 </div>
 
+<script>
+    /* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
+    function openNav() {
+        document.getElementById("sideNav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+    }
+
+    /* Set the width of the side navigation to 0 and the left margin of the page content to 0 */
+    function closeNav() {
+        document.getElementById("sideNav").style.width = "0";
+        document.getElementById("main").style.marginLeft = "0";
+}
+</script>
 
 {% endblock %}

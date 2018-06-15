@@ -1,19 +1,58 @@
 {% extends "layout.html" %}
 
 {% block body %}
-<div class="row">
-        <div class="col-sm-8">
-            {% for line in db_file %}
-                {{line}}<br />
-                {% for entry in db_file[line] %}
+
+<nav class="navBar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/"><img src="{{ url_for('static', filename='logo-small4.png') }}" style="width: 60px;"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="/user_view">Health View</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid text-center">
+  <div class="row content">
+    <div class="col-sm-1 sideNav">
+    </div>
+    <div class="col-sm-10 text-left">
+      <h1>Welcome</h1>
+        {% for entry in res %}
+                {{entry}}:
+                {{res[entry]}}
+            <br />
+            {% endfor %}
+            <br />
+      <hr>
+      <img src="{{ url_for('static', filename='ucibanner.png') }}" style="display: block; margin: auto;">
+    </div>
+    <div class="col-sm-1 sideNav">
+    </div>
+  </div>
+</div>
+
+<footer class="container-fluid text-center">
+  <p>Sense Health Portal<br />Informatics 172</p>
+</footer>
+
+{% endblock %}
+
+<!--
+
+                {% for entry in db_file[results] %}
                     {{entry}}:
                     {{db_file[line][entry]}}<br />
                 {% endfor %}
-            <br />
-            {% endfor %}
-        </div>
-        <div class="col-sm-4">
-            <a href="/user_view">go to user view</a>
-        </div>
-</div>
-{% endblock %}
+-->
