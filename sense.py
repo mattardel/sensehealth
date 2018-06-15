@@ -3,14 +3,22 @@ import json
 
 app = Flask(__name__)
 
+app.config.update(dict(
+    dbFile = {},
+    pFile = {},
+    results = {}
+))
+
 
 @app.route('/', methods=['GET','POST'])
 def view_db():
-    dbFile = read_database()
-    pFile = read_persona()
-    results = get_results(pFile)
-    return render_template("index.html", db_file=dbFile, res=results)
+    load_db()
+    return render_template("index.html", db_file=app.config['dbFile'], p_file=app.config['pFile'], res=app.config['results'])
 
+def load_db():
+    app.config['dbFile'] = dict(read_database())
+    app.config['pFile'] = dict(read_persona())
+    app.config['results'] = get_results(app.config['pFile'])
 
 def read_database():
     dbList = dict
@@ -39,6 +47,11 @@ def get_results(db: dict):
         return res
     except:
         return "Unable to find user results"
+
+# @app.context_processor
+# def utility_processor():
+#     def get_type(item):
+#         return type(item)
 
 @app.route('/user_view', methods=['GET','POST'])
 def show_user():

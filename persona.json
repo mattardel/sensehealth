@@ -92,11 +92,5 @@
     "vitamin_a": "?",
     "vitamin_b": "720 ng/mL",
     "vitamin_c": "91.5 mg"
-  },
-  "document_information": {
-    "primary_care_provider": {},
-    "primary_care_location": {},
-    "coverage_of_document": {},
-    "custodian_organization": {}
   }
 }
