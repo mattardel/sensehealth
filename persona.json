@@ -1,5 +1,5 @@
 {
-  "patientdemographics": {
+  "patient_demographics": {
     "name": "Roger Cook",
     "weight": 250,
     "height": "5ft 9",
@@ -89,8 +89,45 @@
     "insulin": "?",
     "lead": "1.7µg/dL",
     "zinc": "78 µg/dL",
-    "vitamin_a": "?",
+    "vitamin_a": "70",
     "vitamin_b": "720 ng/mL",
     "vitamin_c": "91.5 mg"
+  },
+  "result_num": {
+    "ferritin": 132,
+    "iron": 100,
+    "glucose": 120,
+    "rbc": 5,
+    "hemoglobin": 15.2,
+    "hematocrit": 42,
+    "wbc": 7,
+    "platelet": 33,
+    "thyroid_stimulating_hormone": 1.0,
+    "lipid_panel": {
+      "total": 176,
+      "hdl": 47,
+      "ldl": 160,
+      "triglycerides": 167
+    },
+    "creatinine": 1.0,
+    "fasting_glucose": 97,
+    "biotin": 37,
+    "caffeine": 340,
+    "calcium": 9.3,
+    "carbohydrates": 415,
+    "chloride": 102,
+    "chromium": 30,
+    "copper": 127,
+    "dietary_cholesterol": 32,
+    "dietary_energy": 2287,
+    "dietary_sugar": 86.7,
+    "fiber": 25,
+    "folate": 12,
+    "insulin": 0,
+    "lead": 1.7,
+    "zinc": 78,
+    "vitamin_a": 70,
+    "vitamin_b": 720,
+    "vitamin_c": 91.5
   }
 }

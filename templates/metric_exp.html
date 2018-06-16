@@ -28,39 +28,27 @@
         <div class="col-sm-1 sideNav">
         </div>
         <div class="col-sm-10 text-left">
-            <h1>Welcome</h1>
-            <h3>Health Record Overview</h3>
-            <hr>
-            <div class="row">
-                <div class="col-sm-5">
-                    {% for entry in res %}
-                    - <b>{{entry.title().replace("_"," ")}}:</b>
-                        {{res[entry]}}
-                    <br/>
-                    {% endfor %}
+            <div id="main" class="container">
+                <div class="page-header">
+                    <h1>{{metric.title().replace("_"," ")}}</h1>
+                    <a href="/health_metrics" type="button" class="btn btn-default">See All Metrics</a>
                 </div>
-                <div class="col-sm-5">
-                    {% for entry in p_file %}
-                        {% if not entry=="results" and not entry=="result_num" %}
-                         <b>{{entry.title().replace("_"," ")}}:</b>
-                            <br />
-                            {% for item in p_file[entry] %}
-                                - <i>{{item.title().replace("_"," ")}}</i>
-                                {% if p_file[entry][item] %}
-                                    :
-                                    {{p_file[entry][item]}}
 
-                                {% endif %}
-                                <br />
-                            {% endfor %}
-                            <br />
-                        {% endif %}
-                    {% endfor %}
+                <div class="row" style="font-size: 1.5em; text-align: center;">
+                    <div class="col-lg-3">{{metric.title().replace("_"," ")}} General Information</div>
+                    <div class="col-lg-4">Your Value</div>
+                    <div class="col-lg-3">What Does It Mean?</div>
                 </div>
+
+                <br />
+
+                <div class="row">
+                    <div class="col-lg-3"><div class="well">{{page_info[1]}}</div></div>
+                    <div class="col-lg-4"><div class="well">{{page_info[2]}} - {{page_info[0]}}</div></div>
+                    <div class="col-lg-3"><div class="well">{{page_info[3]}}</div></div>
+                </div>
+
             </div>
-
-            <hr>
-            <img src="{{ url_for('static', filename='ucibanner.png') }}" style="display: block; margin: auto;">
         </div>
         <div class="col-sm-1 sideNav">
         </div>
@@ -72,4 +60,3 @@
 </footer>
 
 {% endblock %}
-

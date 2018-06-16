@@ -28,39 +28,32 @@
         <div class="col-sm-1 sideNav">
         </div>
         <div class="col-sm-10 text-left">
-            <h1>Welcome</h1>
-            <h3>Health Record Overview</h3>
-            <hr>
-            <div class="row">
-                <div class="col-sm-5">
-                    {% for entry in res %}
-                    - <b>{{entry.title().replace("_"," ")}}:</b>
-                        {{res[entry]}}
-                    <br/>
-                    {% endfor %}
+            <div id="main" class="container">
+                <div class="page-header">
+                    <h1>Sense Health Data Analysis</h1>
                 </div>
-                <div class="col-sm-5">
-                    {% for entry in p_file %}
-                        {% if not entry=="results" and not entry=="result_num" %}
-                         <b>{{entry.title().replace("_"," ")}}:</b>
-                            <br />
-                            {% for item in p_file[entry] %}
-                                - <i>{{item.title().replace("_"," ")}}</i>
-                                {% if p_file[entry][item] %}
-                                    :
-                                    {{p_file[entry][item]}}
+                <div class="row">
+                    <div class="col-lg-8"><h3>Health Metrics</h3><p><i>Click on each link to see your
+                        individualized health report!</i></p></div>
+                    <div class="col-lg-4"></div>
+                </div>
 
-                                {% endif %}
-                                <br />
-                            {% endfor %}
-                            <br />
-                        {% endif %}
-                    {% endfor %}
+                <div class="row">
+                    <div class="col-lg-5 well" style="margin: 10px; font-size: 1.5em;">
+                        {% for entry in db1 %}
+                        - <a href="metric_exp/{{entry}}">{{entry.title().replace("_"," ")}}</a>
+                            <br/>
+                        {% endfor %}
+                    </div>
+                    <div class="col-lg-5 well" style="margin: 10px; font-size: 1.5em;">
+                        {% for entry in db2 %}
+                        - <a href="metric_exp/{{entry}}">{{entry.title().replace("_"," ")}}</a>
+                            <br/>
+                        {% endfor %}
+                    </div>
                 </div>
+
             </div>
-
-            <hr>
-            <img src="{{ url_for('static', filename='ucibanner.png') }}" style="display: block; margin: auto;">
         </div>
         <div class="col-sm-1 sideNav">
         </div>
@@ -72,4 +65,3 @@
 </footer>
 
 {% endblock %}
-

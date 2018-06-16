@@ -71,14 +71,6 @@
     "low_number": 0.4,
     "high_number": 5
   },
-  "lipid_panel": {
-    "description": "Cholesterol is a necessary substance produced by the body to make hormones, vitamin D, and digest food. It consists of high-density lipoprotein (HDL), low-density lipoprotein (LDL), and triglycerides. HDL is considered good cholesterol because it transports cholesterol to the liver to be filtered out. LDL and triglycerides are bad cholesterol because they lead to plaque buildup in the arteries. ",
-    "low": "Your levels indicate low levels of cholesterol. This is generally considered better than high cholesterol, but health issues may result if levels go below 40mg/dl. This may lead to an increased risk for cancer, hemorrhagic stroke, depression, and anxiety",
-    "normal": "Your levels indicate your body is producing the right amount of cholesterol and your liver is functioning properly in removing excess cholesterol.",
-    "high": "Your values indicate high cholesterol. This increases your risk of blocked arteries and developing heart disease.",
-    "low_number": 40,
-    "high_number": 0
-  },
   "creatinine": {
     "description": "Creatinine is a waste product that comes from normal wear and tear of the muscles. Creatinine is a good estimate of kidney health since your kidneys filter creatinine out of your bloodstream",
     "low": "Your levels show a possibility of impaired kidney function or excess water loss. Creatinine production is linked to muscle mass, low values may also be linked to muscular diseases, such as muscular dystrophy. Drugs, pregnancy, and muscular diseases may be causes.",
